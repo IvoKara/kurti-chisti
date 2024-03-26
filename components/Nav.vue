@@ -174,6 +174,10 @@ export default {
             </svg>
           </a>
         </div>
+        <div class="flex items-center gap-2 p-5 text-gray-200">
+          <span>Тема:</span>
+          <DarkToggle />
+        </div>
       </div>
     </div>
   </section>
