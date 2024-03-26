@@ -5,7 +5,7 @@ const router = useRouter()
 <template>
   <main class="mx-a mt-12 text-center">
     <div class="text-4xl">
-      <h1 class="mb-12 text-24 font-extrabold text-gray-800">
+      <h1 class="mb-12 text-24 font-extrabold text-gray-800 dark:text-gray-200">
         404
       </h1>
       <div class="inline-block" i-carbon-warning />

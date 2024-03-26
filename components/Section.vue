@@ -27,17 +27,19 @@
           </div>
         </div>
         <div class="mb-10 w-full px-4 lg:mb-8 xl:w-1/2">
-          <span class="text-3xl text-5xl font-semibold text-gray-700">Защо да изберете нас</span>
-          <h2 class="mb-4 mt-2 text-2xl font-bold text-gray-700 dark:text-gray-300">
+          <span class="text-3xl text-5xl font-semibold light:text-gray-700">
+            Защо да изберете нас
+          </span>
+          <h2 class="mb-4 mt-2 text-2xl font-bold text-gray-700 dark:text-gray-400">
             Оставете тежката работа на нас !
           </h2>
-          <p class="mb-4 text-base leading-7 text-gray-500 dark:text-gray-400">
+          <p class="mb-4 text-base leading-7 text-gray-500 dark:text-gray-200">
             Ние сме вашият любим източник за практични, полезни и интелигентни решения за дома и офиса,
             които могат да направят всеки аспект от вашия натоварен живот по-лесен.
           </p>
           <ul class="mb-10">
-            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-400">
-              <span class="mr-3 text-gray-600">
+            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-200">
+              <span class="mr-3 text-gray-600 dark:text-gray-300">
                 <svg
                   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                   class="bi bi-1-circle-fill h-6 w-6" viewBox="0 0 16 16"
@@ -50,8 +52,8 @@
               </span>
               Професионализъм и опит
             </li>
-            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-400">
-              <span class="mr-3 text-gray-600">
+            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-200">
+              <span class="mr-3 text-gray-600 dark:text-gray-300">
                 <svg
                   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                   class="bi bi-2-circle-fill h-6 w-6" viewBox="0 0 16 16"
@@ -63,8 +65,8 @@
               </span>
               Съвременно оборудване
             </li>
-            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-400">
-              <span class="mr-3 text-gray-600">
+            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-200">
+              <span class="mr-3 text-gray-600 dark:text-gray-300">
                 <svg
                   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                   class="bi bi-3-circle-fill h-6 w-6" viewBox="0 0 16 16"
@@ -76,8 +78,8 @@
               </span>
               Персонализирани решения
             </li>
-            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-400">
-              <span class="mr-3 text-gray-600">
+            <li class="mb-4 flex items-center text-base text-gray-600 dark:text-gray-200">
+              <span class="mr-3 text-gray-600 dark:text-gray-300">
                 <svg
                   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                   class="bi bi-4-circle-fill h-6 w-6" viewBox="0 0 16 16"

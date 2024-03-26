@@ -1,7 +1,7 @@
 <template>
   <div class="relative w-full px-12 py-28">
     <div class="relative z-10 mx-auto h-auto w-fit rounded-lg bg-transparent px-2 py-24 text-center md:py-24">
-      <h1 class="mb-12 text-center text-5xl font-bold">
+      <h1 class="mb-12 text-center text-5xl font-bold text-[#121926]">
         Кърти Чисти Извозва
       </h1>
       <a class="mx-auto w-fit flex px-4 text-2xl font-bold" href="tel:+359879883894">
@@ -12,7 +12,7 @@
     </div>
     <img alt="KVM background image" width="1905" height="700" src="~/assets/images/background.jpg" class="absolute inset-0 h-full w-full object-cover">
   </div>
-  <div class="mx-auto bg-gray-300 p-4 text-5 xl:p-12">
+  <div class="mx-auto bg-gray-300 p-4 text-5 dark:bg-gray-700 xl:p-12">
     <div class="mx-auto max-w-5xl space-y-3">
       <p>
         Ние сме вашият любим източник за практични, полезни и интелигентни решения за дома и офиса, които могат да направят всеки аспект от вашия натоварен живот по-лесен.
