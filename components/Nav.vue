@@ -84,6 +84,8 @@ export default {
               />
             </svg>
           </a>
+
+          <DarkToggle class="text-gray-400" />
         </div>
       </nav>
       <!-- mobile menu -->
