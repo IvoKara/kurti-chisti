@@ -2,6 +2,7 @@ import { pwa } from './config/pwa'
 import { appDescription } from './constants/index'
 
 export default defineNuxtConfig({
+  ssr: true,
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
@@ -45,7 +46,7 @@ export default defineNuxtConfig({
       viewport: 'width=device-width,initial-scale=1',
       link: [
         { rel: 'icon', href: '/favicon.ico', sizes: 'any' },
-        { rel: 'icon', type: 'image/svg+xml', href: '/nuxt.svg' },
+        { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' },
         { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
       ],
       meta: [
@@ -57,7 +58,6 @@ export default defineNuxtConfig({
   },
 
   pwa,
-
   devtools: {
     enabled: false,
   },
